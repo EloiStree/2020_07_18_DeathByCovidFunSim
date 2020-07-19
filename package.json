@@ -1,0 +1,23 @@
+
+{                                                                                
+  "name": "be.eloistree.deathbycovidfunsim",                              
+  "displayName": "Death By Covid Fun Sim",                        
+  "version": "0.0.1",                         
+  "unity": "2018.1",                             
+  "unityRelease": "",                             
+  "description": "This package is just some tools in aim to test hypthesis about COVID for fun.",                         
+  "keywords": ["Script","Tool"],                       
+  "dependencies":{},     
+  "relatedPackages":{},     
+  "samples" : [],     
+  "author" : {
+"name":"Eloi Stree",
+"mail":"",
+"url":"http://www.eloistree.com"},     
+  "repository":{
+"type":"Git",
+"url":"https://github.com/EloiStree/2020_07_18_DeathByCovidFunSim.git",
+"footprint":"",
+"revision":"b7488e0bd666ccaffe77eedaf441ea3dbae0e317"},     
+  "category": "Script"                   
+} 

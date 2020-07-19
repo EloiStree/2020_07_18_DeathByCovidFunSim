@@ -1,0 +1,16 @@
+
+{                                                                   
+            "name": "be.eloistree.DeathByCovidFunSimEditor",          
+    "references": ["be.eloistree.DeathByCovidFunSim"
+],                                                              
+    "optionalUnityReferences": [],                                  
+    "includePlatforms": [                                           
+        "Editor"                                                    
+    ],                                                              
+    "excludePlatforms": [],                                         
+    "allowUnsafeCode": false,                                       
+    "overrideReferences": false,                                    
+    "precompiledReferences": [],                                    
+    "autoReferenced": true,                                         
+    "defineConstraints": []                                         
+}                                                                   
